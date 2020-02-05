@@ -9,6 +9,7 @@
     <TextView
         android:layout_width="254dp"
         android:layout_height="22dp"
+        android:text="Praktikum Pemrograman Mobile"
         android:text="Hello Nadhilah Zakkya 1831710092!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
